@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tema2</string>
+
+    <!-- Main RecyclerView strings -->
+    <string name="edit_1">First and last name</string>
+    <string name="edit_2">Mark</string>
+
+    <string name="btn_1">Add Student</string>
+    <string name="btn_2">Delete Student</string>
+
+</resources>
